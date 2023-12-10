@@ -22,6 +22,9 @@ const App = () => {
     }
   }
 
+
+  
+
   useEffect(() => {
     fetchnews();
 
